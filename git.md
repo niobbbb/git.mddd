@@ -6,3 +6,5 @@ git commit = сделать сохранения
 git log = узнать коды комитов 
 git checkout = перейти на другую ветку
 git diff = сравнить изменения между комитами
+qsdqsdqsd
+qsdqs
